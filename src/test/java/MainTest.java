@@ -14,6 +14,6 @@ public class MainTest {
         int result = Main.addNumber(x, y);
 
         // assert
-        assertEquals(7, result, "5 + 3 should equal 8");
+        assertEquals(8, result, "5 + 3 should equal 8");
     }
 }
